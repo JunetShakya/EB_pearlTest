@@ -77,6 +77,7 @@ Clean layout with mobile-friendly styling using Tailwind CSS.
 
 # Home.jsx
 
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/2ebe294b57a14cafeb952f968f850d74873cf838/Screenshot%202025-04-13%20144224.png)
 A home section introducing the company’s service offering.
 
 Includes a call-to-action button ("Get started").

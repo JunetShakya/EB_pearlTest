@@ -70,7 +70,7 @@ This is a simple React UI module for a business website that includes:
 ## Components
 
 # Navbar.jsx
-![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/6d784bbdaed0937107e5e36a6024df085cd7d4f8/navbar)
 
 A responsive navigation bar with links for Products, Solutions, Help Center, and a demo request button.
 

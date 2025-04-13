@@ -70,7 +70,7 @@ This is a simple React UI module for a business website that includes:
 ## Components
 
 # Navbar.jsx
-![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/5d3c82b975f85407408a10e92a5aaefa04f66294/Screenshot%202025-04-11%20135826.png)
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
 
 A responsive navigation bar with links for Products, Solutions, Help Center, and a demo request button.
 
@@ -86,6 +86,7 @@ Includes a call-to-action button ("Get started").
 Decorative blurred gradient background elements for a modern UI look.
 
 # Feature.jsx
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
 
 A responsive grid layout (1–3 columns based on screen size)
 
@@ -98,6 +99,7 @@ Clean, readable styling using Tailwind CSS
 A data-driven structure using a JavaScript array for easy content updates
 
 # Task.jsx
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
 
 Add tasks with input validation
 
@@ -110,7 +112,7 @@ Live user feedback messages
 Responsive design with Tailwind CSS
 
 # ContactUs.jsx
-
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
 A contact form using react-hook-form for validation.
 
 Includes phone number input with validation using libphonenumber-js.
@@ -118,6 +120,7 @@ Includes phone number input with validation using libphonenumber-js.
 Handles form submissions and displays a success message.
 
 # Footer.jsx
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
 
 4-column layout: Description, Products, Company, Resources
 

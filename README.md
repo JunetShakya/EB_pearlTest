@@ -120,7 +120,7 @@ Includes phone number input with validation using libphonenumber-js.
 Handles form submissions and displays a success message.
 
 # Footer.jsx
-![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/c959d21434e4e97a8eede038e3d3c71d0bc09670/footer.jpg)
 
 4-column layout: Description, Products, Company, Resources
 

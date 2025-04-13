@@ -112,7 +112,7 @@ Live user feedback messages
 Responsive design with Tailwind CSS
 
 # ContactUs.jsx
-![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/17d627d625795ed46c9f07e36616f84a9637b43a/contact.jpg)
 A contact form using react-hook-form for validation.
 
 Includes phone number input with validation using libphonenumber-js.

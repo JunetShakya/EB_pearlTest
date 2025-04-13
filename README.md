@@ -86,7 +86,7 @@ Includes a call-to-action button ("Get started").
 Decorative blurred gradient background elements for a modern UI look.
 
 # Feature.jsx
-![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/7f6af5a290f00fd0aecd12154f737115091f0c68/Screenshot%202025-04-13%20172907.png)
+![Image Alt](https://github.com/JunetShakya/EB_pearlTest/blob/1191c36bdee644520fb8cdb1b4d4b17b5582c0c9/feature.jpg)
 
 A responsive grid layout (1–3 columns based on screen size)
 
